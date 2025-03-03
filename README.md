@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @DiToXy
+- 👀 I’m interested in Lua
+- 🌱 I’m currently learning Java and Web
+- 📫 You can dm me on discord : .ditox
